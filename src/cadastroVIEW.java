@@ -39,7 +39,7 @@ public class cadastroVIEW extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Lucida Fax", 0, 24)); // NOI18N
-        jLabel1.setText("Sistema de Leilões");
+        jLabel1.setText("Tela de Vendas");
 
         jLabel3.setText("Cadastre um novo produto");
 
